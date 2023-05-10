@@ -20,3 +20,5 @@ func main() {
 	fmt.Println("Thanks for rating, ", input)
 	fmt.Printf("Type of rating is %T", input)
 }
+
+// comma error syntax is where certain calls returns input as first variable and error as second
