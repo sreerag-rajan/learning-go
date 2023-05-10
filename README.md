@@ -28,3 +28,4 @@ Code written while learning go
     - nil is the syntax for null value
     - formatting time : ```go 01-02-2006 15:04:05 Monday```
     - Pointer is a direct reference to memory location. using this ensures original value is being transferred and not a copy
+    - array is not a commonly used data type in this. Slice is what is dominantly used
