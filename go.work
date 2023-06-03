@@ -18,4 +18,9 @@ use (
 	./17Defer
 	./18Files
 	./19WebRequests
+	./20HandlingUrl
+	./21Frontend
+	./22GetRequest
+	./23bitMoreJson
+	./24myModules
 )
