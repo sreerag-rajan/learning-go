@@ -31,7 +31,7 @@ Code written while learning go
     - Pointer is a direct reference to memory location. using this ensures original value is being transferred and not a copy
     - array is not a commonly used data type in this. Slice is what is dominantly used
     - ranges in slice, the last range are non-inclusive
-
+    - You need to encode and decode jsons for APIs. If you are creating a JSON you need to encode, if you are recieving a json you need to decode it. Use the json(inbuilt) library
 
 
 
