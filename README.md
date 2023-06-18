@@ -32,7 +32,13 @@ Code written while learning go
     - array is not a commonly used data type in this. Slice is what is dominantly used
     - ranges in slice, the last range are non-inclusive
     - You need to encode and decode jsons for APIs. If you are creating a JSON you need to encode, if you are recieving a json you need to decode it. Use the json(inbuilt) library
+    - Forgot what context is. Need to look into that again
 
 
 
 semvar.org(semvar.org)
+
+
+## Libraries:
+    - Routing : Gorilla Mux `go get -u github.com/gorilla/mux`
+    - MongoDB Driver: `go get go.mongodb.org/mongo-driver/mongo`
