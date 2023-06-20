@@ -19,6 +19,8 @@ Code written while learning go
  - strconv packages helps with converting string
  - strings package helps working with strings
  - time package
+ - sync package
+ - Mutex
 
 
 
